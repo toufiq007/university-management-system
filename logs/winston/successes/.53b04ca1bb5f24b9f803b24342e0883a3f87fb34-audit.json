@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/limon/Desktop/university-management-system/logs/winston/successes/.53b04ca1bb5f24b9f803b24342e0883a3f87fb34-audit.json",
+    "files": [
+        {
+            "date": 1686195416294,
+            "name": "/home/limon/Desktop/university-management-system/logs/winston/successes/ump-2023-06-08-09-success.log",
+            "hash": "8a6e5dea4b0a9105f2ad3bf0347bbc1f93f192774cc1bd93a1cff8244c559ae9"
+        }
+    ],
+    "hashType": "sha256"
+}
