@@ -1,7 +1,6 @@
 import mongoose from 'mongoose'
-import { IUser } from './users.interface'
+import { IUser, UserModel } from './user.interface'
 
-type UserModel = mongoose.Model<IUser, object>
 const userSchema = new mongoose.Schema<IUser>(
   {
     id: {

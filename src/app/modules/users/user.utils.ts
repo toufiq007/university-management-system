@@ -1,4 +1,4 @@
-import { User } from './users.model'
+import { User } from './user.model'
 
 // find last user id from database
 const findLastUserId = async () => {

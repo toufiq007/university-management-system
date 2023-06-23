@@ -1,11 +1,11 @@
 import { RequestHandler } from 'express'
-import usersServices from './users.services'
+import { UserServices } from './user.services'
 
 const createNewUser: RequestHandler = async (req, res, next) => {
   const { users } = req.body
   //   console.log(users)
   try {
-    const newUser = await usersServices.createUser(users)
+    const newUser = await UserServices.createUser(users)
     res.status(201).json({
       success: true,
       message: `User created Successfully`,
@@ -16,6 +16,6 @@ const createNewUser: RequestHandler = async (req, res, next) => {
   }
 }
 
-export default {
+export const UserController = {
   createNewUser,
 }

@@ -1,7 +1,7 @@
 import config from '../../../config'
-import { IUser } from './users.interface'
-import { User } from './users.model'
-import { generateNewUserId } from './users.utils'
+import { IUser } from './user.interface'
+import { User } from './user.model'
+import { generateNewUserId } from './user.utils'
 
 const createUser = async (user: IUser): Promise<IUser | null> => {
   // generate incremental id and set it to new user
@@ -21,6 +21,6 @@ const createUser = async (user: IUser): Promise<IUser | null> => {
   return createdUser
 }
 
-export default {
+export const UserServices = {
   createUser,
 }

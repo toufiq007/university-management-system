@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-expressions */
 /* eslint-disable no-unused-vars */
 /* eslint-disable no-undefined */
 import { ErrorRequestHandler } from 'express'
@@ -5,6 +6,7 @@ import config from '../../config'
 import { ApiError } from '../../errors/ApiError'
 import { handleValidationError } from '../../errors/handleValidationError'
 import { IGenericErrorMessages } from '../../inerfaces/IGenericErrorMessage'
+import { errorLogger } from '../../shared/logger'
 
 export const globalErrorHandler: ErrorRequestHandler = (
   error,
@@ -12,6 +14,10 @@ export const globalErrorHandler: ErrorRequestHandler = (
   res,
   next
 ) => {
+  config.env === 'development'
+    ? console.log('global error handler', error)
+    : errorLogger.error('global error handler ', error)
+
   let statusCode = 400
   let message = 'Something Went Wrong!!!'
   let errorMessages: IGenericErrorMessages[] = []
@@ -23,7 +29,7 @@ export const globalErrorHandler: ErrorRequestHandler = (
     errorMessages = simplifiedError.errorMessages
   } else if (error instanceof ApiError) {
     statusCode = error?.statusCode
-    message = error?.message
+    message = error?.message ? error?.message : message
     errorMessages = error?.message
       ? [
           {
@@ -33,20 +39,20 @@ export const globalErrorHandler: ErrorRequestHandler = (
         ]
       : []
   } else if (error instanceof Error) {
-    message = error?.message
+    message = error?.message ? error?.message : message
     errorMessages = error?.message
       ? [
           {
             path: '',
-            message: error?.message,
+            message,
           },
         ]
       : []
   }
 
-  res.status(404).json({
+  res.status(statusCode).json({
     success: false,
-    message,
+    message: message,
     errorMessages,
     stack: config.env === 'development' ? error?.stack : undefined,
   })
