@@ -13,9 +13,10 @@ app.use(express.urlencoded({ extended: true }))
 // all routes
 app.use('/api/v1/users', UserRoutes)
 
-app.get('/', async (req: Request, res: Response) => {
- Promise.reject(new Error('unhandled promise rejection'))
-})
+// app.get('/', async (req: Request, res: Response) => {
+//   console.log(x)
+// })
 
 // global error handler
 app.use(globalErrorHandler)
+

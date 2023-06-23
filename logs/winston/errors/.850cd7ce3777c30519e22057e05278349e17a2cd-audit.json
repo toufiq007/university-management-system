@@ -39,6 +39,16 @@
             "date": 1687536919134,
             "name": "/home/limon/Desktop/university-management-system/logs/winston/errors/ump-2023-06-23-22-error.log",
             "hash": "153890e2fdb7ddeb3176d5556910d103feff381c040f0d0491582ed7cde934c0"
+        },
+        {
+            "date": 1687539646605,
+            "name": "/home/limon/Desktop/university-management-system/logs/winston/errors/ump-2023-06-23-23-error.log",
+            "hash": "4b3e334904c2add98622a989fdd9774349c622ce481a29a3a4037db22783f68a"
+        },
+        {
+            "date": 1687547620129,
+            "name": "/home/limon/Desktop/university-management-system/logs/winston/errors/ump-2023-06-24-01-error.log",
+            "hash": "342ae52915a7b6f450159bbbbe3a33432307417a8a6484488fb746ff2e5573a5"
         }
     ],
     "hashType": "sha256"
