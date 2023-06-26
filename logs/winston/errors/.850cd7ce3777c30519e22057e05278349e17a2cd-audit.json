@@ -74,6 +74,11 @@
             "date": 1687752002510,
             "name": "/home/limon/Desktop/university-management-system/logs/winston/errors/ump-2023-06-26-10-error.log",
             "hash": "02536aa5951b0df6c704b9a0d2f658ed6e50a7e5cb2e93e6434d104ff82856dc"
+        },
+        {
+            "date": 1687756887564,
+            "name": "/home/limon/Desktop/university-management-system/logs/winston/errors/ump-2023-06-26-11-error.log",
+            "hash": "a2b4ca1085bbad970756fa9532f8483bab77056a18880e2dc8b5423f052baf74"
         }
     ],
     "hashType": "sha256"

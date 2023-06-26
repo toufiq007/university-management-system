@@ -74,6 +74,11 @@
             "date": 1687752002506,
             "name": "/home/limon/Desktop/university-management-system/logs/winston/successes/ump-2023-06-26-10-success.log",
             "hash": "3af46f8ae5c68c17751510bd349d8418006dfcc82e2e0828e0cb7db7ecdfe4d8"
+        },
+        {
+            "date": 1687756887561,
+            "name": "/home/limon/Desktop/university-management-system/logs/winston/successes/ump-2023-06-26-11-success.log",
+            "hash": "5085252a66128a986f1ba474486825ad20459ab9ad35594eae9c3152c34937ee"
         }
     ],
     "hashType": "sha256"
