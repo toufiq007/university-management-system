@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="18a60cb3-3436-4e87-a3f0-d9f4da54521d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/logs/winston/errors/.850cd7ce3777c30519e22057e05278349e17a2cd-audit.json" beforeDir="false" afterPath="$PROJECT_DIR$/logs/winston/errors/.850cd7ce3777c30519e22057e05278349e17a2cd-audit.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/winston/successes/.53b04ca1bb5f24b9f803b24342e0883a3f87fb34-audit.json" beforeDir="false" afterPath="$PROJECT_DIR$/logs/winston/successes/.53b04ca1bb5f24b9f803b24342e0883a3f87fb34-audit.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/modules/users/user.controller.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/modules/users/user.interface.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/modules/users/user.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/modules/users/user.router.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/modules/users/user.services.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/modules/users/user.utils.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2Ri4Xr3ySjE6zaCltHeM8Y3xAsq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18a60cb3-3436-4e87-a3f0-d9f4da54521d" name="Changes" comment="" />
+      <created>1687719612911</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687719612911</updated>
+      <workItem from="1687719614505" duration="14000" />
+      <workItem from="1687719640805" duration="8000" />
+    </task>
+    <servers />
+  </component>
+</project>

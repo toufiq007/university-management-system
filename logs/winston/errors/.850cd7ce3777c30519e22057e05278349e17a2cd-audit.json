@@ -49,6 +49,31 @@
             "date": 1687547620129,
             "name": "/home/limon/Desktop/university-management-system/logs/winston/errors/ump-2023-06-24-01-error.log",
             "hash": "342ae52915a7b6f450159bbbbe3a33432307417a8a6484488fb746ff2e5573a5"
+        },
+        {
+            "date": 1687692811264,
+            "name": "/home/limon/Desktop/university-management-system/logs/winston/errors/ump-2023-06-25-17-error.log",
+            "hash": "3ca999b2f147dfbd82e781fdd6f943ff24ab3fa778f035b1885f534ead59c946"
+        },
+        {
+            "date": 1687695381127,
+            "name": "/home/limon/Desktop/university-management-system/logs/winston/errors/ump-2023-06-25-18-error.log",
+            "hash": "5d44d3ecb03d8e9125dde1e7a2ee44618d27d9f3064e33829b836c4db7c6cdf3"
+        },
+        {
+            "date": 1687707150552,
+            "name": "/home/limon/Desktop/university-management-system/logs/winston/errors/ump-2023-06-25-21-error.log",
+            "hash": "8552c08e489e9cbc3e3701f2e8fd2f1c63b42072e5f3fdd266cf8d232a8e3129"
+        },
+        {
+            "date": 1687748400990,
+            "name": "/home/limon/Desktop/university-management-system/logs/winston/errors/ump-2023-06-26-09-error.log",
+            "hash": "ac506ccff0f951cb5e10364fdaaff7223cc68d795492739e77d759ce4547daeb"
+        },
+        {
+            "date": 1687752002510,
+            "name": "/home/limon/Desktop/university-management-system/logs/winston/errors/ump-2023-06-26-10-error.log",
+            "hash": "02536aa5951b0df6c704b9a0d2f658ed6e50a7e5cb2e93e6434d104ff82856dc"
         }
     ],
     "hashType": "sha256"
