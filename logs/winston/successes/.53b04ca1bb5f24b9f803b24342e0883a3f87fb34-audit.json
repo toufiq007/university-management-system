@@ -99,6 +99,21 @@
             "date": 1687842735782,
             "name": "/home/limon/Desktop/university-management-system/logs/winston/successes/ump-2023-06-27-11-success.log",
             "hash": "999c4ffc0e5f5a1874e0ef83a2c440e1dc62790a3d98a6707b8e7812974c7ac1"
+        },
+        {
+            "date": 1687846489455,
+            "name": "/home/limon/Desktop/university-management-system/logs/winston/successes/ump-2023-06-27-12-success.log",
+            "hash": "52cf07e67d97487423dc2e31ebb4c991dc7d5df3734c160aef891ba43b3e8487"
+        },
+        {
+            "date": 1687861623198,
+            "name": "/home/limon/Desktop/university-management-system/logs/winston/successes/ump-2023-06-27-16-success.log",
+            "hash": "041c45f575b5c1b9bd071b5a82f68fa7e49df094a4f7235393258e0d42d29a32"
+        },
+        {
+            "date": 1687863769345,
+            "name": "/home/limon/Desktop/university-management-system/logs/winston/successes/ump-2023-06-27-17-success.log",
+            "hash": "86265c68ef746704b708822735f54128be2b5191c11d95847bbb940e9638956f"
         }
     ],
     "hashType": "sha256"
