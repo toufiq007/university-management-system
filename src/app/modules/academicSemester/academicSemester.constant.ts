@@ -39,5 +39,3 @@ export const academicSemesterTitleCodeMapper: {
   Fall: '03',
 };
 
-console.log(academicSemesterTitleCodeMapper['Autumn'] === '01')
-

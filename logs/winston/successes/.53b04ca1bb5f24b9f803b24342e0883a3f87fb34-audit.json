@@ -114,6 +114,36 @@
             "date": 1687863769345,
             "name": "/home/limon/Desktop/university-management-system/logs/winston/successes/ump-2023-06-27-17-success.log",
             "hash": "86265c68ef746704b708822735f54128be2b5191c11d95847bbb940e9638956f"
+        },
+        {
+            "date": 1687938476383,
+            "name": "/home/limon/Desktop/university-management-system/logs/winston/successes/ump-2023-06-28-13-success.log",
+            "hash": "126784157f8277be13c8343379f58a32d18a1c75b4cb011af0e224d71df6369d"
+        },
+        {
+            "date": 1687940099433,
+            "name": "/home/limon/Desktop/university-management-system/logs/winston/successes/ump-2023-06-28-14-success.log",
+            "hash": "6345ddf9e679a63b7c8d4771d57e3bb9175c38136fe93d2f5ea2fa5931d359ff"
+        },
+        {
+            "date": 1687944417336,
+            "name": "/home/limon/Desktop/university-management-system/logs/winston/successes/ump-2023-06-28-15-success.log",
+            "hash": "478de3da952e1fdee5055c004d9f652bd78880fd024a6016a79f81a6ff7ad9e8"
+        },
+        {
+            "date": 1687946498185,
+            "name": "/home/limon/Desktop/university-management-system/logs/winston/successes/ump-2023-06-28-16-success.log",
+            "hash": "6d62c1a3409e11fdb06f47a3372f77b988bdcc3ceec72e3be5f966b540922fb8"
+        },
+        {
+            "date": 1687957029681,
+            "name": "/home/limon/Desktop/university-management-system/logs/winston/successes/ump-2023-06-28-18-success.log",
+            "hash": "89f86203021489e95279331136800b715cc7b7ed11515951a628ab56c5450e8a"
+        },
+        {
+            "date": 1687958659776,
+            "name": "/home/limon/Desktop/university-management-system/logs/winston/successes/ump-2023-06-28-19-success.log",
+            "hash": "86519cbc28b6889487c4ee8fb22e523ead4c453b1e4cc4f3fb87b0731211f686"
         }
     ],
     "hashType": "sha256"
